@@ -1,3 +1,5 @@
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ania123678&langs_count=8&layout=compact&hide_border=true" alt="Anna's GitHub stats" /> |
-</p>
+
+![Ania123678's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ania123678&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+
